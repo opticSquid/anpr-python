@@ -1,5 +1,7 @@
 /tfod
 /Tensorflow
+/shared/test
+/shared/train
 /.ipynb_checkpoints
 /ipynb_checkpoints
 .ipynb_checkpoints
